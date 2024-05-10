@@ -7,8 +7,8 @@ setup(
     description = '',  
     author = 'Nikhil',                   
     author_email = 'nikhil.bhamere@gmail.com',      
-    url = 'https://github.com/nick2580/VecStore',   
-    download_url = 'https://github.com/nick2580/VecStore/archive/refs/tags/0.1.tar.gz',
+    url = 'https://github.com/nick2580/VectorLakePy',   
+    download_url = 'https://github.com/nick2580/VectorLakePy/archive/refs/tags/0.1.tar.gz',
     keywords = ['vectors', 'embedding', 'polars'],   
     install_requires=[            # I get to this in a second
             'openai',

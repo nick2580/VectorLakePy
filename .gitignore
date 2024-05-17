@@ -1,6 +1,9 @@
 venv
 test_data
 app.py
+Test Data
+new_test_data
+facebook
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
